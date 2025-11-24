@@ -1,0 +1,9 @@
+# Ignorar pastas de compilação
+/build/
+/dist/
+
+# Ignorar arquivos temporários/IDE
+/nbproject/private/
+*.jar
+*.war
+.DS_Store
